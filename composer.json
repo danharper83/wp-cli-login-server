@@ -1,5 +1,5 @@
 {
-    "name": "aaemnnosttv/wp-cli-login-server",
+    "name": "danharper83/wp-cli-login-server",
     "description": "Companion plugin to the WP-CLI Login Command to handle magic passwordless sign-in requests.",
     "type": "wordpress-plugin",
     "license": "MIT",
